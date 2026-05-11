@@ -1,11 +1,14 @@
 <!-- ============================================= -->
 <!-- 🎨 BANNER / HEADER -->
-<!-- Personalize: troque a URL abaixo por uma imagem sua de banner (ex: gerada no Canva, 1500x500px) -->
+<!-- Personalize: substitua o título e subtítulo abaixo, ou troque por uma imagem própria (ex: banner do Canva 1500x500px) -->
 <!-- ============================================= -->
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waves&color=gradient&customColorList=12,20,24&height=200&section=header&text=Mateus%20Gama&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Computer%20Science%20Student&descAlignY=58&descAlign=50" alt="header" />
-</div>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="hi" />
+  Olá, eu sou <span style="color:#58A6FF">Mateus Gama</span>
+</h1>
+
+<h3 align="center">🚀 Backend Developer  |  🎓 Computer Science Student @ Insper</h3>
 
 <!-- ============================================= -->
 <!-- ✍️ TYPING SVG ANIMATION -->
@@ -216,10 +219,6 @@
 <!-- 🌟 FRASE DE EFEITO / RODAPÉ -->
 <!-- Personalize: altere a frase abaixo se quiser uma assinatura diferente -->
 <!-- ============================================= -->
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waves&color=gradient&customColorList=12,20,24&height=120&section=footer" alt="footer" />
-</div>
 
 <div align="center">
   <sub>⭐ "A melhor maneira de prever o futuro é construí-lo." — Alan Kay</sub>
