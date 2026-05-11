@@ -37,25 +37,6 @@
 
 <!-- Personalize: ajuste o texto abaixo para refletir sua jornada e objetivos -->
 
-```python
-class MateusGama:
-    def __init__(self):
-        self.nome        = "Mateus Gama"
-        self.formacao    = "Ciência da Computação @ Insper"
-        self.funcao      = "Backend Developer"
-        self.linguagens  = ["Português", "Inglês"]
-        self.stack_atual = ["Python"]
-        self.aprendendo  = ["Arquitetura de Software", "APIs escaláveis"]
-        self.hobbies     = ["Resolver problemas", "Aprender algo novo todo dia"]
-
-    def diga_oi(self):
-        print("Obrigado por passar por aqui! Vamos construir algo incrível? 🚀")
-
-
-me = MateusGama()
-me.diga_oi()
-```
-
 🎯 Sou **estudante de Ciência da Computação no Insper** e desenvolvedor com foco em **back-end**. Gosto de transformar ideias em soluções limpas, eficientes e bem estruturadas — sempre buscando aprender e evoluir com cada projeto.
 
 - 🔭 Atualmente desenvolvendo projetos em **Python**
