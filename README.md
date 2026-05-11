@@ -120,7 +120,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🎮 Pygame - Jogo Marrom</h3>
+      <h3 align="center">🎮 Pygame - Hospital Rush</h3>
       <p align="center">
         <a href="https://github.com/Mateusgama-dev/pygame-jogo-marrom-ryan-mateusgama">
           <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Mateusgama-dev&repo=pygame-jogo-marrom-ryan-mateusgama&theme=tokyonight&hide_border=true" alt="Pygame Jogo Marrom" />
@@ -181,7 +181,7 @@
 <!-- Personalize: ajuste os pontos abaixo conforme seus objetivos atuais -->
 
 - 💡 Buscando **oportunidades de estágio em desenvolvimento back-end**
-- 📚 Aprofundando conhecimentos em **arquitetura de software, APIs REST e bancos de dados relacionais**
+- 📚 Aprofundando conhecimentos em **arquitetura de software, e bancos de dados relacionais**
 - 🤝 Aberto a **colaborar em projetos open-source** que envolvam Python
 - 🧠 Sempre estudando: estruturas de dados, algoritmos e boas práticas de engenharia
 
