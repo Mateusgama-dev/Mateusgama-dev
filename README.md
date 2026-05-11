@@ -127,52 +127,53 @@
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mateusgama-dev&repo=pygame-jogo-marrom-ryan-mateusgama&theme=tokyonight&hide_border=true" alt="Pygame Jogo Marrom" />
         </a>
       </p>
-      <p>
+      <p align="center">
         Jogo desenvolvido em <b>Python</b> com a biblioteca <b>Pygame</b>,
         criado como projeto acadêmico em dupla. Explora lógica de jogos,
         manipulação de sprites, colisões e loop principal de renderização.
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">📌 Nome do Projeto 2</h3>
+      <h3 align="center">🚧 Em breve</h3>
       <p align="center">
-        <a href="https://github.com/Mateusgama-dev/nome-do-projeto-2">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mateusgama-dev&repo=nome-do-projeto-2&theme=tokyonight&hide_border=true" alt="Projeto 2" />
-        </a>
+        <img src="https://img.shields.io/badge/Status-Em%20desenvolvimento-yellow?style=for-the-badge" alt="Em breve" />
       </p>
-      <p>
-        Breve descrição do projeto. Explique o problema que ele resolve,
-        as tecnologias usadas e algum resultado/destaque relevante.
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">📌 Nome do Projeto 3</h3>
       <p align="center">
-        <a href="https://github.com/Mateusgama-dev/nome-do-projeto-3">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mateusgama-dev&repo=nome-do-projeto-3&theme=tokyonight&hide_border=true" alt="Projeto 3" />
-        </a>
-      </p>
-      <p>
-        Breve descrição do projeto. Explique o problema que ele resolve,
-        as tecnologias usadas e algum resultado/destaque relevante.
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">📌 Nome do Projeto 4</h3>
-      <p align="center">
-        <a href="https://github.com/Mateusgama-dev/nome-do-projeto-4">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mateusgama-dev&repo=nome-do-projeto-4&theme=tokyonight&hide_border=true" alt="Projeto 4" />
-        </a>
-      </p>
-      <p>
-        Breve descrição do projeto. Explique o problema que ele resolve,
-        as tecnologias usadas e algum resultado/destaque relevante.
+        Novos projetos a caminho! Estou sempre trabalhando em ideias
+        envolvendo back-end e Python — em breve este espaço será preenchido
+        com mais um repositório por aqui.
       </p>
     </td>
   </tr>
 </table>
+
+<!-- Quando publicar novos repositórios, descomente o bloco abaixo e ajuste os nomes:
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">📌 Nome do Projeto</h3>
+      <p align="center">
+        <a href="https://github.com/Mateusgama-dev/NOME-DO-REPO">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mateusgama-dev&repo=NOME-DO-REPO&theme=tokyonight&hide_border=true" alt="Projeto" />
+        </a>
+      </p>
+      <p align="center">Descrição do projeto aqui.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📌 Nome do Projeto</h3>
+      <p align="center">
+        <a href="https://github.com/Mateusgama-dev/NOME-DO-REPO">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mateusgama-dev&repo=NOME-DO-REPO&theme=tokyonight&hide_border=true" alt="Projeto" />
+        </a>
+      </p>
+      <p align="center">Descrição do projeto aqui.</p>
+    </td>
+  </tr>
+</table>
+
+-->
+
 
 ---
 
