@@ -121,15 +121,16 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">📌 Nome do Projeto 1</h3>
+      <h3 align="center">🎮 Pygame - Jogo Marrom</h3>
       <p align="center">
-        <a href="https://github.com/Mateusgama-dev/nome-do-projeto-1">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mateusgama-dev&repo=nome-do-projeto-1&theme=tokyonight&hide_border=true" alt="Projeto 1" />
+        <a href="https://github.com/Mateusgama-dev/pygame-jogo-marrom-ryan-mateusgama">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mateusgama-dev&repo=pygame-jogo-marrom-ryan-mateusgama&theme=tokyonight&hide_border=true" alt="Pygame Jogo Marrom" />
         </a>
       </p>
       <p>
-        Breve descrição do projeto. Explique o problema que ele resolve,
-        as tecnologias usadas e algum resultado/destaque relevante.
+        Jogo desenvolvido em <b>Python</b> com a biblioteca <b>Pygame</b>,
+        criado como projeto acadêmico em dupla. Explora lógica de jogos,
+        manipulação de sprites, colisões e loop principal de renderização.
       </p>
     </td>
     <td width="50%" valign="top">
