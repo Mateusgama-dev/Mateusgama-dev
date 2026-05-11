@@ -92,7 +92,7 @@
 <!-- Personalize: substitua "Mateusgama-dev" pelo seu username do GitHub -->
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mateusgama-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mateusgama-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
   <img height="180em" src="https://streak-stats.demolab.com?user=Mateusgama-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
@@ -101,7 +101,7 @@
 ### 💡 Tecnologias mais usadas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateusgama-dev&layout=donut&theme=tokyonight&hide_border=true&langs_count=10&card_width=500" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mateusgama-dev&layout=donut&theme=tokyonight&hide_border=true&langs_count=10&card_width=500" alt="Top Languages" />
 </div>
 
 <br/>
@@ -116,7 +116,7 @@
 
 <!-- Personalize: substitua os títulos, descrições e links pelos seus projetos reais.
      Dica: você pode usar cards do github-readme-stats para projetos pinados:
-     https://github-readme-stats.vercel.app/api/pin/?username=USUARIO&repo=REPOSITORIO -->
+     https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=USUARIO&repo=REPOSITORIO -->
 
 <table>
   <tr>
@@ -124,7 +124,7 @@
       <h3 align="center">🎮 Pygame - Jogo Marrom</h3>
       <p align="center">
         <a href="https://github.com/Mateusgama-dev/pygame-jogo-marrom-ryan-mateusgama">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mateusgama-dev&repo=pygame-jogo-marrom-ryan-mateusgama&theme=tokyonight&hide_border=true" alt="Pygame Jogo Marrom" />
+          <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Mateusgama-dev&repo=pygame-jogo-marrom-ryan-mateusgama&theme=tokyonight&hide_border=true" alt="Pygame Jogo Marrom" />
         </a>
       </p>
       <p align="center">
@@ -155,7 +155,7 @@
       <h3 align="center">📌 Nome do Projeto</h3>
       <p align="center">
         <a href="https://github.com/Mateusgama-dev/NOME-DO-REPO">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mateusgama-dev&repo=NOME-DO-REPO&theme=tokyonight&hide_border=true" alt="Projeto" />
+          <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Mateusgama-dev&repo=NOME-DO-REPO&theme=tokyonight&hide_border=true" alt="Projeto" />
         </a>
       </p>
       <p align="center">Descrição do projeto aqui.</p>
@@ -164,7 +164,7 @@
       <h3 align="center">📌 Nome do Projeto</h3>
       <p align="center">
         <a href="https://github.com/Mateusgama-dev/NOME-DO-REPO">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mateusgama-dev&repo=NOME-DO-REPO&theme=tokyonight&hide_border=true" alt="Projeto" />
+          <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Mateusgama-dev&repo=NOME-DO-REPO&theme=tokyonight&hide_border=true" alt="Projeto" />
         </a>
       </p>
       <p align="center">Descrição do projeto aqui.</p>
