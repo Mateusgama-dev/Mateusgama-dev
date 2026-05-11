@@ -93,12 +93,18 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mateusgama-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateusgama-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=Mateusgama-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
+<br/>
+
+### 💡 Tecnologias mais usadas
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Mateusgama-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateusgama-dev&layout=donut&theme=tokyonight&hide_border=true&langs_count=10&card_width=500" alt="Top Languages" />
 </div>
+
+<br/>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Mateusgama-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
